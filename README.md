@@ -84,7 +84,7 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 [![JARVIS Video](path_to_video_thumbnail)](path_to_video)
 
 <div align="center">
-<a href="https://github.com/yourusername/JARVIS" target="_blank">
+<a href="https://github.com/jainam0037/JARVIS--Python-project" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </div>
