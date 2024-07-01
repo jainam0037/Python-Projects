@@ -102,7 +102,7 @@ This project involves a media player control system using a Convolutional Neural
 [![Media Control Video](path_to_video_thumbnail)](path_to_video)
 
 <div align="center">
-<a href="https://github.com/yourusername/Media-Control-with-Hand-Gesture" target="_blank">
+<a href="https://github.com/jainam0037/Media-Player-with-Hand-Gesture" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -120,7 +120,7 @@ A fitness tracker project focusing on real-world applications in fitness trackin
 [![Fitness Tracker Video](path_to_video_thumbnail)](path_to_video)
 
 <div align="center">
-<a href="https://github.com/yourusername/Fitness-Tracker-with-ML" target="_blank">
+<a href="https://github.com/jainam0037/Fitness-Tracker" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -138,7 +138,7 @@ This project aims to determine whether a pair of questions on Quora are semantic
 [![Quora Question Pair Video](path_to_video_thumbnail)](path_to_video)
 
 <div align="center">
-<a href="https://github.com/yourusername/Quora-Question-Pair" target="_blank">
+<a href="https://github.com/jainam0037/Quora-Question-Pair" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </div>
