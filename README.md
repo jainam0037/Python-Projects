@@ -13,8 +13,6 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 - And more...
 
 ### Images and Videos:
-![JARVIS Screenshot](path_to_image)
-[![JARVIS Video](path_to_video_thumbnail)](path_to_video)
 
 <div align="center">
 <a href="https://github.com/jainam0037/JARVIS--Python-project" target="_blank">
