@@ -85,7 +85,7 @@ This project aims to determine whether a pair of questions on Quora are semantic
 ### Images and Videos:
 ![Quora Question Pair Screenshot](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Feature%20Engineeing.png)
 ![Pair Plot](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%201.png)
-
+![Results and Confusion Matrix](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Models.png)
 <div align="center">
 <a href="https://github.com/jainam0037/Quora-Question-Pair" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
