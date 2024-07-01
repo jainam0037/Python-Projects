@@ -29,9 +29,21 @@ This project involves a media player control system using a Convolutional Neural
 - Hand gesture recognition using CNN, Pytorch
 - Media playback control
 
-### Images and Videos:
-![Media Control Screenshot](path_to_image)
-[![Media Control Video](path_to_video_thumbnail)](path_to_video)
+### Images:
+**Move Backwards:**
+![Move Backwards](https://github.com/jainam0037/Media-Player-with-Hand-Gesture/blob/main/move%20backwards.png)
+
+
+**Move Forward:**
+![Move Forward](https://github.com/jainam0037/Media-Player-with-Hand-Gesture/blob/main/move%20forward.png)
+
+
+**Volume Down:**
+![Volume Down](https://github.com/jainam0037/Media-Player-with-Hand-Gesture/blob/main/volume%20down.png)
+
+
+**Volume Up:**
+![Volume Up](https://github.com/jainam0037/Media-Player-with-Hand-Gesture/blob/main/volume%20up.png)
 
 <div align="center">
 <a href="https://github.com/jainam0037/Media-Player-with-Hand-Gesture" target="_blank">
